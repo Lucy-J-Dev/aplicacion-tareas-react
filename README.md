@@ -8,11 +8,14 @@ Con este proyecto se logró aprender a crear componentes, utilizar iconos de Rea
 
 1. Ya que el proyecto contien dependencias para su funcionamiento, lo primero sería instalar las biblitecas requeridas con el siguiente comando `npm install`
 2. En el archivo `package.json` se encuentran los scripts para la ejecución del proyecto. Usaremos el script `npm start`
-3. La aplicación se ejecutará en la dirección `[react app](http://localhost:3000)`
+3. La aplicación se ejecutará en la dirección [http://localhost:3000](http://localhost:3000)
 4. En el navegador de su preferencia vaya a la ruta indicada y podrá ver la aplicación
+
+![Applicación de tareas](assets/tareas.png)
 
 ## Tareas por hacer
 
 1. Actualizar el proyecto para que use Vite (create-react-app ya está descontinuado)
 2. Actualizar el proyecto para que use Tipescript
 3. Actualizar el proyecto para que use Tailwind Css
+4. Hacer que las tareas se guarden en el local storage
